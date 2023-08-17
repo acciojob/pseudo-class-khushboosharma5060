@@ -1,12 +1,15 @@
 /*  your css code here. If applicable */
-#container{
+/* div{
 	margin: 20px;
+	background:blue;
 }
-#container::before{
-	color: #f00;
-	font-size: 50px;
+div::before{
+	content:"Before"
+	color: yellow;
+	font-size: 40px;
 }
-#container::after{
-	color: #f00;
-	font-size: 50px;
-}
+div::after{
+	content:"After"
+	color: pink;
+	font-size: 40px;
+} */
